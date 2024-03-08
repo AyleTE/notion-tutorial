@@ -46,7 +46,7 @@ const scrolled = useScrollTop();
                                 Enter Jotion
                             </Link>
                         </Button>
-                        <UserButton 
+                        <UserButton
                             afterSignOutUrl="/"
                         />
                     </>
