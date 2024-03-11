@@ -14,7 +14,7 @@ const MarketingLayout = (
                 {children}
             </main>
         </div>
-     );
+    );
 }
- 
+
 export default MarketingLayout;

@@ -43,6 +43,7 @@ const DocumentsPage = () => {
             </h2>
             <Button >
                 <PlusCircle className="h-4 w-4 mr-2"/>
+                Create a note
             </Button>
         </div>
     );
